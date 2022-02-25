@@ -1,0 +1,1239 @@
+{
+  "result": [{
+    "ProjectID": 1909,
+    "DeviceID": 1,
+    "DeviceName": "1#消防泵",
+    "property": [{
+      "DataItemID": 1,
+      "DataItemName": "通讯状态"
+    }, {
+      "DataItemID": 2,
+      "DataItemName": "运行状态"
+    }, {
+      "DataItemID": 3,
+      "DataItemName": "故障状态"
+    }, {
+      "DataItemID": 4,
+      "DataItemName": "手自动状态"
+    }, {
+      "DataItemID": 1110,
+      "DataItemName": "Di1状态"
+    }, {
+      "DataItemID": 1111,
+      "DataItemName": "Di2状态"
+    }, {
+      "DataItemID": 1112,
+      "DataItemName": "Di3状态"
+    }, {
+      "DataItemID": 1113,
+      "DataItemName": "Di4状态"
+    }, {
+      "DataItemID": 1114,
+      "DataItemName": "Di5状态"
+    }, {
+      "DataItemID": 1115,
+      "DataItemName": "Di6状态"
+    }, {
+      "DataItemID": 1116,
+      "DataItemName": "Di7状态"
+    }, {
+      "DataItemID": 1117,
+      "DataItemName": "Di8状态"
+    }]
+  },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 2,
+      "DeviceName": "2#消防泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 3,
+      "DeviceName": "1#消防补水泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 4,
+      "DeviceName": "2#消防补水泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 5,
+      "DeviceName": "3#消防补水泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 6,
+      "DeviceName": "1#喷淋泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 7,
+      "DeviceName": "2#喷淋泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 8,
+      "DeviceName": "-2楼消防管网",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 9,
+      "DeviceName": "-2楼喷淋管网",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 10,
+      "DeviceName": "-2楼消防补水管网",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 11,
+      "DeviceName": "-2楼1#消防水池",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 12,
+      "DeviceName": "-2楼2#消防水池",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 13,
+      "DeviceName": "-2楼消防泵房温湿度",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 11,
+        "DataItemName": "室内温度"
+      }, {
+        "DataItemID": 12,
+        "DataItemName": "室内湿度"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 14,
+      "DeviceName": "发电机房温湿度",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 11,
+        "DataItemName": "室内温度"
+      }, {
+        "DataItemID": 12,
+        "DataItemName": "室内湿度"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 15,
+      "DeviceName": "发电机蓄电池电压",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 118,
+        "DataItemName": "蓄电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 16,
+      "DeviceName": "负四楼生活泵房温湿度",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 11,
+        "DataItemName": "室内温度"
+      }, {
+        "DataItemID": 12,
+        "DataItemName": "室内湿度"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 17,
+      "DeviceName": "负四楼高区给水压力",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 18,
+      "DeviceName": "负四楼低区给水压力",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 19,
+      "DeviceName": "负四楼生活水箱",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 20,
+      "DeviceName": "负四楼空调补水箱",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 21,
+      "DeviceName": "水泵房1#污水泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 22,
+      "DeviceName": "水泵房2#污水泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 23,
+      "DeviceName": "17楼消防泵房温湿度",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 11,
+        "DataItemName": "室内温度"
+      }, {
+        "DataItemID": 12,
+        "DataItemName": "室内湿度"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 24,
+      "DeviceName": "17楼1#消防泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 25,
+      "DeviceName": "17楼2#消防泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 26,
+      "DeviceName": "17楼1#喷淋泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 27,
+      "DeviceName": "17楼2#喷淋泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 28,
+      "DeviceName": "17楼消防管网",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 29,
+      "DeviceName": "17楼喷淋管网",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 30,
+      "DeviceName": "17楼消防水池",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 31,
+      "DeviceName": "48楼1#消防泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 32,
+      "DeviceName": "48楼2#消防泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 33,
+      "DeviceName": "48楼1#喷淋泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 34,
+      "DeviceName": "48楼2#喷淋泵",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 3,
+        "DataItemName": "故障状态"
+      }, {
+        "DataItemID": 4,
+        "DataItemName": "手自动状态"
+      }, {
+        "DataItemID": 1110,
+        "DataItemName": "Di1状态"
+      }, {
+        "DataItemID": 1111,
+        "DataItemName": "Di2状态"
+      }, {
+        "DataItemID": 1112,
+        "DataItemName": "Di3状态"
+      }, {
+        "DataItemID": 1113,
+        "DataItemName": "Di4状态"
+      }, {
+        "DataItemID": 1114,
+        "DataItemName": "Di5状态"
+      }, {
+        "DataItemID": 1115,
+        "DataItemName": "Di6状态"
+      }, {
+        "DataItemID": 1116,
+        "DataItemName": "Di7状态"
+      }, {
+        "DataItemID": 1117,
+        "DataItemName": "Di8状态"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 35,
+      "DeviceName": "48楼消防压力",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 36,
+      "DeviceName": "48楼喷淋压力",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 37,
+      "DeviceName": "48楼消防水池",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 38,
+      "DeviceName": "48楼空调补水箱",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 39,
+      "DeviceName": "48楼消防泵房温湿度",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 11,
+        "DataItemName": "室内温度"
+      }, {
+        "DataItemID": 12,
+        "DataItemName": "室内湿度"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 40,
+      "DeviceName": "48楼消防泵房地面水浸",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 21,
+        "DataItemName": "水浸"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 41,
+      "DeviceName": "8楼补水箱",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 42,
+      "DeviceName": "18楼补水箱",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 43,
+      "DeviceName": "28楼生活高区给水压力",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 44,
+      "DeviceName": "28楼生活中区给水压力",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 202,
+        "DataItemName": "管网压力"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 45,
+      "DeviceName": "28楼生活水箱",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 201,
+        "DataItemName": "水池液位"
+      }, {
+        "DataItemID": 1200,
+        "DataItemName": "电池电压"
+      }]
+    },
+    {
+      "ProjectID": 1909,
+      "DeviceID": 46,
+      "DeviceName": "28楼生活泵房温湿度",
+      "property": [{
+        "DataItemID": 1,
+        "DataItemName": "通讯状态"
+      }, {
+        "DataItemID": 2,
+        "DataItemName": "运行状态"
+      }, {
+        "DataItemID": 11,
+        "DataItemName": "室内温度"
+      }, {
+        "DataItemID": 12,
+        "DataItemName": "室内湿度"
+      }, {
+        "DataItemID": 1201,
+        "DataItemName": "信号强度"
+      }, {
+        "DataItemID": 1204,
+        "DataItemName": "电池电量"
+      }]
+    }
+  ]
+}
