@@ -1,9 +1,11 @@
 {
   "result": [{
+    "pid":"",
     "ProjectID": 1909,
     "DeviceID": 1,
     "DeviceName": "1#消防泵",
     "property": [{
+      "id":"",
       "DataItemID": 1,
       "DataItemName": "通讯状态"
     }, {
